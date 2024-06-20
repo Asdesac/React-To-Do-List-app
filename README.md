@@ -63,7 +63,7 @@ This component displays individual to-do items with delete and toggle complete f
 
 ## Screenshot
 
-![Screenshot of the To-Do List App](C:\Users\HP\Desktop\rxtCOde\react_crush\todo-list\src\Screenshot (331).png)
+![Screenshot of the To-Do List App]((https://github.com/Asdesac/React-To-Do-List-app/blob/main/todo-list/src/Screenshot%20(331).png))
 
 ## License
 
