@@ -41,12 +41,12 @@ The application should open in your default web browser at [http://localhost:300
 ## Project Structure
 
 src/
-├── components/
-│ ├── TodoApp.js
-│ ├── TodoItem.js
-│ └── TodoList.js
-├── App.js
-├── index.js
+├── components/ <br>
+│ ├── TodoApp.js<br>
+│ ├── TodoItem.j s<br>
+│ └── TodoList.js <br>
+├── App.js <br>
+├── index.js <br>
 └── ...
 
 ### `TodoApp.js`
